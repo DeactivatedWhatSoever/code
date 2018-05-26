@@ -8,3 +8,4 @@ I will put all of my data science related studies over here.
 * Jupyter Notebooks
 * EDA for Trading Stocks & Cryptocurrency
 * Analysis for Finance Data
+* Trading Strategy Analysis
