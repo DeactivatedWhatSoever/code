@@ -1,3 +1,11 @@
+(* 
+* The thing that we need to know is, there's no such thing as reassignment.
+* The dynamic environment just shadows your value into a new one.
+* So the past references are just values that referenced an old value!
+* Of course SML did this for convenience, but obviously Scala,
+* just makes a compile error where val can't reassign. 
+* *)
+
 val a = 10
 
 (* a : int, a -> 10 *)
